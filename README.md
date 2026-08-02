@@ -38,8 +38,6 @@ The project focuses on creating an engaging combat experience by combining adapt
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 adaptive-ai-boss/
 ├── Assets/
