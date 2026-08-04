@@ -48,3 +48,18 @@ adaptive-ai-boss/
 ├── LICENSE
 └── .gitignore
 ```
+
+## Screenshots
+
+### Gameplay
+
+<p align="center">
+  <img src="Screenshots/gameplay.png" alt="Gameplay" width="800"/>
+</p>
+
+### Boss Defeat
+
+<p align="center">
+  <img src="Screenshots/boss-defeat.png" alt="Boss Defeat" width="800"/>
+</p>
+
