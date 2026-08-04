@@ -92,3 +92,7 @@ This project was developed as a three-member team project.
 - Introduce difficulty scaling
 - Expand combat mechanics
 - Improve game environment and visual effects
+
+## License
+
+This project is licensed under the MIT License.
