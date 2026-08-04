@@ -63,3 +63,32 @@ adaptive-ai-boss/
   <img src="Screenshots/boss-defeat.png" alt="Boss Defeat" width="800"/>
 </p>
 
+## Installation
+
+### Requirements
+
+- Unity 2021.3 LTS or later
+- Visual Studio 2022
+
+### Steps
+
+1. Clone the repository.
+2. Open the project in Unity Hub.
+3. Load the main scene.
+4. Press **Play** to start the game.
+
+## Team
+
+This project was developed as a three-member team project.
+
+- Pratik Mallappa Kalloli
+- Mutturaj Angadi
+- Kamalkanth N
+
+## Future Improvements
+
+- Improve adaptive AI decision-making
+- Add multiple boss behaviors
+- Introduce difficulty scaling
+- Expand combat mechanics
+- Improve game environment and visual effects
