@@ -79,11 +79,28 @@ adaptive-ai-boss/
 
 ## Team
 
-This project was developed as a three-member team project.
+This project was developed as a three-member team project by:
 
 - Pratik Mallappa Kalloli
 - Mutturaj Angadi
 - Kamalkanth N
+
+---
+
+## Acknowledgements
+
+This project builds upon the open-source Unity project **Boss-Fight_Unity_Engine** by **MridulRoy98**.
+
+Our team extended the original project with:
+
+- Adaptive AI system
+- Player behavior logging
+- Python-based AI training pipeline
+- Gameplay improvements
+- Additional project documentation
+
+Original repository:
+https://github.com/MridulRoy98/Boss-Fight_Unity_Engine
 
 ## Future Improvements
 
